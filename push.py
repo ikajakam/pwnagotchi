@@ -21,7 +21,7 @@ def update_sent_list(filename):
         f.write(filename + "\n")
 
 def main():
-    print(f"--- jizzzzzzzing uploads ---")
+    print(f"--- jizzzzzzzing captures ---")
     print(f"Mode: Cookie-based Auth + .22000 Verification")
 
     sent_files = load_sent_list()
