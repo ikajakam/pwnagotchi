@@ -30,7 +30,7 @@ def main():
     # This proves they are valid without needing Scapy.
     hash_files = glob.glob(os.path.join(HANDSHAKE_DIR, "*.22000"))
     
-    print(f"Found {len(hash_files)} valid handshakes. jizzing ...")
+    print(f"Found {len(hash_files)} valid handshakes. 💋 💋 💋 jizzing 💋 💋 💋 ")
 
     uploaded_count = 0
     
@@ -58,7 +58,7 @@ def main():
                 if r.status_code == 200:
                     # MIMIC GOTCHIPUSH: Simple success check
                     if "already submitted" in r.text:
-                        print("⏭️  Already in uploaded")
+                        print("⏭️ Already in uploaded")
                     else:
                         print("✅ UPLOADED")
                     
