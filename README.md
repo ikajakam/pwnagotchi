@@ -9,7 +9,7 @@ High-speed, lightweight Python script to upload valid handshake capture (`.pcap`
 
 ## Usage
 
-- **Download the script** in your handshakes directory:
+- **Download the script** in your handshakes directory
   ```bash
    wget https://raw.githubusercontent.com/ikajakam/pwnagotchi/main/push.py -O /home/pi/handshakes/push.py
    ```
@@ -24,7 +24,7 @@ High-speed, lightweight Python script to upload valid handshake capture (`.pcap`
     chmod +x /home/pi/handshakes/turbo_push.py
     ```
 
-#### Run the script manually whenever you want to sync your handshakes:
+#### Run the script manually whenever you want to sync your handshakes
 
 ```bash
 python3 /home/pi/handshakes/push.py
