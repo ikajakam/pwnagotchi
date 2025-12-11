@@ -21,7 +21,7 @@ High-speed, lightweight Python script to upload valid handshake capture (`.pcap`
 
 - **Make Executable (Optional)** 
     ```bash
-    chmod +x /home/pi/handshakes/turbo_push.py
+    chmod +x /home/pi/handshakes/push.py
     ```
 
 #### Run the script manually whenever you want to sync your handshakes
