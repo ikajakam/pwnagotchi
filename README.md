@@ -15,7 +15,7 @@ High-speed, lightweight Python script to upload valid handshake capture (`.pcap`
    ```
 
 - **Configure API Key**
-    ```python
+    ```bash
     API_KEY = "your-api-key"
     ```
 
