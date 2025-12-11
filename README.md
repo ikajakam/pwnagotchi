@@ -37,3 +37,6 @@ python3 /home/pi/handshakes/push.py
 ```bash
 echo "alias push='python3 /home/pi/handshakes/push.py'" >> ~/.bashrc && source ~/.bashrc
 ```
+
+
+<img width="1600" height="881" alt="image" src="https://github.com/user-attachments/assets/b6e68e1f-4915-40ba-8f35-36fe1eb0b1b4" />
