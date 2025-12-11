@@ -1,7 +1,7 @@
 # Turbo Push for Pwnagotchi
 
 High-speed, lightweight Python script to upload valid handshake capture (`.pcap`) to 
-[wpa-sec.stanev.org](https://wpa-sec.stanev.org). 
+[wpa-sec.stanev.org](https://wpa-sec.stanev.org)
 
 ## Prerequisites
 -  **`ohcapi` Plugin Enabled:** This script relies on `ohcapi` to create `.22000` files for valid handshakes check. 
