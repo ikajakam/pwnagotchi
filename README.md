@@ -27,6 +27,10 @@ High-speed, lightweight Python script to upload valid handshake capture (`.pcap`
 #### Run the script manually whenever you want to sync your handshakes
 
 ```bash
+python3 push.py
+```
+
+```bash
 python3 /home/pi/handshakes/push.py
 ```
 
