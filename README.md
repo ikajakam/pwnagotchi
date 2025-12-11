@@ -1,6 +1,6 @@
 # Turbo Push for Pwnagotchi
 
-High-speed, lightweight Python script to upload Pwnagotchi valid handshake captures (`.pcap`) to 
+High-speed, lightweight Python script to upload valid handshake capture (`.pcap`) to 
 [wpa-sec.stanev.org](https://wpa-sec.stanev.org). 
 
 ## Prerequisites
