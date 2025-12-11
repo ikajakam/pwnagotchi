@@ -72,7 +72,7 @@ def main():
         except Exception as e:
             print(f"❌ Error: {e}")
 
-    print(f"\nDone. jizzed {uploaded_count} files.")
+    print(f"\nDone jizzed {uploaded_count} files")
 
 if __name__ == "__main__":
     main()
